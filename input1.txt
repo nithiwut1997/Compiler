@@ -1,0 +1,6 @@
+10 A = 1
+20 IF 10 < A 60
+30 PRINT A
+40 A = A + 1
+50 GOTO 20
+60 STOP
